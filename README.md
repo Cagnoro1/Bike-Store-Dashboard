@@ -13,6 +13,9 @@
 ### Project Overview 
 This data analysis project aims to provide insights into the sales performance of a Bike store company over the years 2016 to 2018. By analyzing various aspects of the sales data, we seek to identify the different trends, make data-driven recommendations, and gain a deeper understanding of the company's performance to help management make informed decisions. 
 
+![Dashboard 1](https://github.com/Cagnoro1/Bike-Store-Dashboard/assets/135088212/c29a7dd5-5f8a-483e-9af0-cbf8037c4c5d)
+
+
 ### Data Sources 
 Sales Data: The primary dataset used for this analysis is the "Bikestore.xlsx" file, containing detailed information about each sale made by the company.
 
@@ -114,7 +117,8 @@ Based on the analysis, we recommend the following actions:
   
 
 
-
+😄 
+💻
 
 
 
