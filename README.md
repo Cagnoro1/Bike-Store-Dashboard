@@ -91,7 +91,7 @@ ord. order_id ,
 ### Results and Finding
 
 The analysis results are summarized as follows:
-1. The year 2018 was the best in revenue.
+1. The year 2017 was the best in revenue with $ 3,845,515. 
 2. The bike sales increased on average from February to April.
 3. The company sells more bikes in New York compared to Texas or California (lowest sales ).
 4. The Baldwin Bike store makes 67.91% of the total bike sales of the company.
